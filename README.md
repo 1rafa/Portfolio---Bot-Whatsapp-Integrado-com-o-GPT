@@ -106,7 +106,7 @@ View
 - WhatsAppResponder: Formata e envia as mensagens para a API do WhatsApp.
 
 # Estrutura de pastas
-
+```plaintext
 assistente_virtual/
 │── main.py                      # Arquivo principal que inicia a aplicação
 │── config.py                     # Configurações do sistema
@@ -136,3 +136,5 @@ assistente_virtual/
 │   ├── test_whatsapp_service.py    # Testes para WhatsApp Service
 │   ├── test_llm_service.py         # Testes para OpenAI Service
 │   ├── test_message_controller.py  # Testes para o controlador
+```
+
